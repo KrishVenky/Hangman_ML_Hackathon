@@ -1,0 +1,10 @@
+{
+  "episodes": 3000,
+  "games": 2000,
+  "wins": 160,
+  "success_rate": 0.08,
+  "total_wrong": 9977,
+  "total_repeated": 0,
+  "scoring_formula": "(Success_Rate \u00d7 2000) - (Total_Wrong \u00d7 5) - (Total_Repeated \u00d7 2)",
+  "final_score": -49725.0
+}
